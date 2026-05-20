@@ -46,33 +46,3 @@ The dashboard provides meaningful insights into sales trends, product categories
 ```text
 Blinkit.pbix
 
-# Author
-
-## Sanskruti Kshirsagar
-Electronics and Telecommunication Engineering Student
-
----
-
-# Applications
-
-- Sales Analysis
-- Retail Analytics
-- Business Intelligence
-- Customer Trend Analysis
-- KPI Reporting
-
----
-
-# Learning Outcomes
-
-- Power BI Dashboard Development
-- Data Visualization
-- Business Analytics
-- Dashboard Designing
-- Data Cleaning and Processing
-
----
-
-# Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
